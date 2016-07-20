@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CC61164C-A65F-2EBD-F357-33B1DED8C2C7}") = "prefab-motion-tracking", "Assembly-CSharp.csproj", "{AFC2DA63-7AFC-5010-E816-774735935752}"
+EndProject
+Project("{CC61164C-A65F-2EBD-F357-33B1DED8C2C7}") = "prefab-motion-tracking", "Assembly-CSharp-Editor.csproj", "{91633752-4A09-3D75-741C-29798481FE5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFC2DA63-7AFC-5010-E816-774735935752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC2DA63-7AFC-5010-E816-774735935752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC2DA63-7AFC-5010-E816-774735935752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC2DA63-7AFC-5010-E816-774735935752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91633752-4A09-3D75-741C-29798481FE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91633752-4A09-3D75-741C-29798481FE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91633752-4A09-3D75-741C-29798481FE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91633752-4A09-3D75-741C-29798481FE5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
